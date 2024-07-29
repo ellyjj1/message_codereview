@@ -21,6 +21,7 @@ function TopBar() {
             <Nav.Link href="/register">Register</Nav.Link>
             <Nav.Link href="/login">login</Nav.Link>
             <Nav.Link href="/chatroom">Chat Room</Nav.Link>
+            <Nav.Link href="/createchatroom">Create ChatRooms</Nav.Link>
             <Nav.Link href="/sumupnum">Number Sum Up</Nav.Link>
 
             {/*<NavDropdown title="Link" id="navbarScrollingDropdown">*/}
